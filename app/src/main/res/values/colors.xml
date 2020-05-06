@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6d00</color>
+    <color name="colorPrimaryDark">#c43c00</color>
+    <color name="colorAccent">#ff9e40</color>
+
+    <color name="buttonSelected">#050c59</color>
+    <color name="buttonUnselected">#0b0f3e</color>
+
+    <color name="textColorSelected">#ffffff</color>
+    <color name="textColorUnselected">#b9e9f2dd</color>
+    <color name="crust">#F1543F</color>
+
+    <color name="colorNegro">#000</color>
+    <color name="NegroTransparente">#87000000</color>
+    <color name="BlancoTransparente">#80FFFFFF</color>
+    <color name="seleccionado">#91D88213</color>
+
+</resources>

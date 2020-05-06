@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.login.fragments.Home"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_bebidas_frias" />
+
+    <fragment
+        android:id="@+id/Bebidas_Calientes"
+        android:name="com.example.login.fragments.BebidasCalientes"
+        android:label="@string/menu_Calientes"
+        tools:layout="@layout/fragment_bebidas_calientes" />
+
+    <fragment
+        android:id="@+id/Bebidas_Frias"
+        android:name="com.example.login.fragments.BebidasFrias"
+        android:label="@string/menu_Frias"
+        tools:layout="@layout/fragment_bebidas_frias" />
+
+    <fragment
+        android:id="@+id/Comida"
+        android:name="com.example.login.fragments.Comida"
+        android:label="@string/menu_Comida"
+        tools:layout="@layout/fragment_comida" />
+
+    <fragment
+        android:id="@+id/Helados"
+        android:name="com.example.login.fragments.Helados"
+        android:label="@string/menu_Comida"
+        tools:layout="@layout/fragment_helados" />
+
+</navigation>

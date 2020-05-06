@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pizza">Pizza</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_Calientes">Bebidas Calientes</string>
+    <string name="menu_Frias">Bebidas Frias</string>
+    <string name="menu_Comida">Comida</string>
+    <string name="menu_Helados">Helados</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="ordered_91_times_today">Ordered 91 times today</string>
+    <string name="customise">Customise</string>
+    <string name="best_sellers">BEST SELLERS</string>
+    <string name="cheese_garden">Cheese Garden</string>
+    <string name="cheese_normal">Cheese Normal</string>
+    <string name="cheese_burst">Cheese Burst</string>
+    <string name="cheese_delux">Cheese Delux</string>
+    <string name="normal_crust">Normal Crust</string>
+    <string name="thin_crust">Thin Crust</string>
+    <string name="add_toppings">Add Toppings</string>
+    <string name="pepperoni">PEPPERONI</string>
+    <string name="_1_item">1 ITEM</string>
+    <string name="order">ORDER</string>
+
+
+
+
+        <!--Estos son los mios we no los muevas -_- Atte: Christian-->
+        <string name="prompt_email">Correo Electronico</string>
+        <string name="prompt_password">Contraseña</string>
+        <string name="action_sign_in">Sign in or register</string>
+        <string name="action_sign_in_short">Sign in</string>
+        <string name="welcome">"Welcome !"</string>
+        <string name="invalid_username">usuario invalido</string>
+        <string name="invalid_password">La contraseña debe tener por lo menos 8 caracteres</string>
+        <string name="login_failed">"No se pudo Iniciar sesion"</string>
+        <string name="logIn">Iniciar Secion</string>
+        <string name="title_activity_main">MainActivity</string>
+        <string name="menu_gallery">Historial</string>
+        <string name="menu_slideshow">Perfil</string>
+
+        <string name="home_second">Home Second</string>
+        <string name="registrar">Registrar</string>
+        <string name="nombre">Nombre</string>
+        <string name="prompt_passwordConf">Confirmar Contraseña</string>
+        <string name="logOut">Cerrar sesion</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="Number">Numero de Celular</string>
+    <string name="NombreNegocio">Franco\'s Pizzas</string>
+    <string name="Precio">Precio Base</string>
+    <string name="PizzaPrecio">$110</string>
+    <string name="CantI">Cantidad de Ingredientes</string>
+    <string name="flecha"><![CDATA[<-----------------]]></string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/Bebidas_Calientes"
+            android:icon="@drawable/ic_local_cafe_black_24dp"
+            android:title="@string/menu_Calientes" />
+        <item
+            android:id="@+id/Bebidas_Frias"
+            android:icon="@drawable/ic_local_cafe_black_24dp"
+            android:title="@string/menu_Frias" />
+        <item
+            android:id="@+id/Comida"
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:title="@string/menu_Comida" />
+        <item
+            android:id="@+id/Helados"
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:title="@string/menu_Helados" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>
